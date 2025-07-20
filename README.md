@@ -1,6 +1,6 @@
 # Robo
 This repository contains the project files for a Group Capstone Project for MTR 362 - Robotics, undertaken as part of an undergraduate Mechatronics Engineering program.
-Our project aims to design, build, and demonstrate an intelligent pick-and-place robotic arm. The system integrates machine vision with real-time control to locate, identify, pick, and place selected objects efficiently — overcoming the limitations of simple proximity sensor-based robotic arms.
+Our project aims to design, build, and demonstrate an intelligent pick-and-place robotic arm. The system integrates machine vision with real-time control to locate, identify, pick, and place selected objects efficiently overcoming the limitations of simple proximity sensor-based robotic arms.
 
 # Key features include:
 - Custom robotic arm modeled in a parametric MCAD software.
