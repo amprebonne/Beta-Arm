@@ -8,7 +8,7 @@ Servo motor driver (1) – 16-channel PWM driver (e.g., PCA9685, 12-bit resoluti
 
 ESP32 camera module (1) – ESP32-CAM, 1600 × 1200 image capture, Wi-Fi + Bluetooth, OV2640 camera sensor
 
-Male & female power jack supply (5+) – DC barrel connector, 5.5 mm outer / 2.1 mm inner diameter, rated 5 V–12 V
+Male power jack supply (1) – DC barrel connector, 5.5 mm outer / 2.1 mm inner diameter, rated 5 V–12 V
 
 Jumper cables – Assorted male-to-male, male-to-female, female-to-female, ~10 cm length
 
