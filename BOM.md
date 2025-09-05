@@ -1,3 +1,5 @@
+STM32F030C6 → 32 KB Flash, 4 KB SRAM, 48 MHz, LQFP-48
+
 MG996R servos (5) – 11 kg·cm torque @ 6 V, operating voltage 4.8–7.2 V, 0.17 s/60° speed
 
 MG90 servo (1) – 2.2 kg·cm torque @ 4.8 V, operating voltage 4.8–6 V, 0.1 s/60° speed
