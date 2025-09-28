@@ -24,3 +24,9 @@ Our project aims to design, build, and demonstrate an intelligent pick-and-place
 # Credit
 
 # References
+
+# Appendix: Project Files
+This section contains links to all supplementary project files.
+- **Manipulator kinmatic diagram:** [View the kinematic diagram drawing files](https://docs.google.com/drawings/d/15jNXW8rgt5O_UfLh6RkJmWEusIsC4YRsQ7lwjG3kFDY/edit?usp=sharing)
+- **3D CAD Models:** [View the complete robotic arm assembly on Onshape](https://...loremipsum)
+- **PCB Schematics:** [Download the KiCad files for the control board](https://...loremipsum)
