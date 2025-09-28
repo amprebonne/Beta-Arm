@@ -10,8 +10,8 @@ Our project aims to design, build, and demonstrate an intelligent pick-and-place
 
 # Key features
 - Custom robotic arm with a gripper end effector.
-- An embedded control system featuring an STM32 with Cortex M0 core
-- A camera module and a host PC for machine vision and object detection providing the MCU with multi-axis motion control through real-time G-code interface.
+- An embedded control system featuring an STM32 with Cortex M0 core for motion control.
+- A camera module and a host PC for machine vision and object detection providing the MCU with coordinates of object location.
 
 # Appendix: Project Files
 This section contains links to all supplementary project files.
