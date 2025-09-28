@@ -13,18 +13,6 @@ Our project aims to design, build, and demonstrate an intelligent pick-and-place
 - An embedded control system featuring an STM32 with Cortex M0 core
 - A camera module and a host PC for machine vision and object detection providing the MCU with multi-axis motion control through real-time G-code interface.
 
-# Setup
-
-# Usage
-
-# Demo
-
-# Contributing
-
-# Credit
-
-# References
-
 # Appendix: Project Files
 This section contains links to all supplementary project files.
 - **Manipulator kinematic diagram:** [View the kinematic diagram drawing file](https://docs.google.com/drawings/d/15jNXW8rgt5O_UfLh6RkJmWEusIsC4YRsQ7lwjG3kFDY/edit?usp=sharing)
