@@ -16,7 +16,7 @@ Our project aims to design, build, and demonstrate an intelligent pick-and-place
 # Appendix: Project Files
 This section contains links to all supplementary project files.
 - **Manipulator kinematic diagram:** [View the kinematic diagram drawing file](https://docs.google.com/drawings/d/15jNXW8rgt5O_UfLh6RkJmWEusIsC4YRsQ7lwjG3kFDY/edit?usp=sharing)
-- **Base-platform grid-sheet:** [View the grid sheet on Canva](https://www.canva.com/design/DAG0ViYq8Qw/T_nfxPLi2O_xdXKCSe3ELQ/edit?utm_content=DAG0ViYq8Qw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- **Base-platform grid-sheet:** [View the grid sheet on Canva](https://www.canva.com/design/DAG0V4IM1rI/qsZEKh_Zg2F3xjGcvtsEBg/edit?utm_content=DAG0V4IM1rI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - **3D CAD Model:** [View the complete robotic arm assembly on Autodesk 3D Viewer](https://autode.sk/4nquLwD)
 - **Project Presentation:** [View the slide deck on Google Slides](https://docs.google.com/presentation/d/1nX-H9TyuoCJQ-igmgSQgIlras0Ow6GI-e8l_YUqkpAM/edit?usp=sharing)
 - **Final Project Report:** [Read the complete report](https://docs.google.com/document/d/1alb5p_RBVPbGc4EKTV-pMi-BW-VWp2jK1O7p5n7zS_o/edit?usp=sharing)
