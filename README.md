@@ -21,4 +21,4 @@ This section contains links to all supplementary project files.
   [and the 24 x 24 inches grid sheet on Canva](https://www.canva.com/design/DAG0ViYq8Qw/T_nfxPLi2O_xdXKCSe3ELQ/edit?utm_content=DAG0ViYq8Qw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - **3D CAD Model:** [View the complete robotic arm assembly on Autodesk 3D Viewer](https://autode.sk/4nquLwD)
 - **Project Presentation:** [View the slide deck on Google Slides](https://docs.google.com/presentation/d/1nX-H9TyuoCJQ-igmgSQgIlras0Ow6GI-e8l_YUqkpAM/edit?usp=sharing)
-- **Final Project Report:** [Read the complete report](https://docs.google.com/document/d/1alb5p_RBVPbGc4EKTV-pMi-BW-VWp2jK1O7p5n7zS_o/edit?usp=sharing)
+- **Final Project Report:** [Read the complete report](https://www.overleaf.com/3645491839kqrrjfkmpzjt#5574e6)
